@@ -5,6 +5,8 @@
     {"capital": "Columbus", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Charlotte", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "San Francisco", "utc_diff": "-8", "Dls": "-7"},
+    {"capital": "Los Angeles", "utc_diff": "-8", "Dls": "-7"},
+    {"capital": "Seattle", "utc_diff": "-8", "Dls": "-7"},
     {"capital": "Indianapolis", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Seattle", "utc_diff": "-8", "Dls": "-7"},
     {"capital": "Denver", "utc_diff": "-7", "Dls": "-6"},
@@ -38,6 +40,22 @@
     {"capital": "Tampa", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Aurora", "utc_diff": "-7", "Dls": "-6"},
     {"capital": "Honolulu", "utc_diff": "-10", "Dls": "-10"},
+    {"capital": "New York City", "utc_diff": "-5", "Dls": "-4"},
+    {"capital": "Chicago", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "Houston", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "Philadelphia", "utc_diff": "-5", "Dls": "-4"},
+    {"capital": "Phoenix", "utc_diff": "-7", "Dls": "-7"},  // Arizona (no DST)
+    {"capital": "San Antonio", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "San Diego", "utc_diff": "-8", "Dls": "-7"},
+    {"capital": "Dallas", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "San Jose", "utc_diff": "-8", "Dls": "-7"},
+    {"capital": "St. Louis", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "Raleigh", "utc_diff": "-5", "Dls": "-4"},
+    {"capital": "Omaha", "utc_diff": "-6", "Dls": "-5"},
+    {"capital": "Boise", "utc_diff": "-7", "Dls": "-6"},  // Mountain Time
+    {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},  // Alaska Time
+    {"capital": "Pittsburgh", "utc_diff": "-5", "Dls": "-4"},
+    {"capital": "Cincinnati", "utc_diff": "-5", "Dls": "-4"}
     {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},
     {"capital": "London", "utc_diff": "+0", "Dls": "+1"},
     {"capital": "Berlin", "utc_diff": "+1", "Dls": "+2"},
