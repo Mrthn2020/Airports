@@ -55,7 +55,7 @@
     {"capital": "Boise", "utc_diff": "-7", "Dls": "-6"},  // Mountain Time
     {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},  // Alaska Time
     {"capital": "Pittsburgh", "utc_diff": "-5", "Dls": "-4"},
-    {"capital": "Cincinnati", "utc_diff": "-5", "Dls": "-4"}
+    {"capital": "Cincinnati", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},
     {"capital": "London", "utc_diff": "+0", "Dls": "+1"},
     {"capital": "Berlin", "utc_diff": "+1", "Dls": "+2"},
