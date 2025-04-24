@@ -44,7 +44,7 @@
     {"capital": "Chicago", "utc_diff": "-6", "Dls": "-5"},
     {"capital": "Houston", "utc_diff": "-6", "Dls": "-5"},
     {"capital": "Philadelphia", "utc_diff": "-5", "Dls": "-4"},
-    {"capital": "Phoenix", "utc_diff": "-7", "Dls": "-7"},  // Arizona (no DST)
+    {"capital": "Phoenix", "utc_diff": "-7", "Dls": "-7"},
     {"capital": "San Antonio", "utc_diff": "-6", "Dls": "-5"},
     {"capital": "San Diego", "utc_diff": "-8", "Dls": "-7"},
     {"capital": "Dallas", "utc_diff": "-6", "Dls": "-5"},
@@ -52,8 +52,7 @@
     {"capital": "St. Louis", "utc_diff": "-6", "Dls": "-5"},
     {"capital": "Raleigh", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Omaha", "utc_diff": "-6", "Dls": "-5"},
-    {"capital": "Boise", "utc_diff": "-7", "Dls": "-6"},  // Mountain Time
-    {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},  // Alaska Time
+    {"capital": "Boise", "utc_diff": "-7", "Dls": "-6"},
     {"capital": "Pittsburgh", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Cincinnati", "utc_diff": "-5", "Dls": "-4"},
     {"capital": "Anchorage", "utc_diff": "-9", "Dls": "-8"},
@@ -229,7 +228,6 @@
     {"capital": "Campinas", "utc_diff": "-3", "Dls": "-3"},
     {"capital": "Mendoza", "utc_diff": "-3", "Dls": "-3"},
     {"capital": "Punta Arenas", "utc_diff": "-3", "Dls": "-3"},
-    {"capital": "Moscow", "utc_diff": "+3", "Dls": "+3"},
     {"capital": "Saint Petersburg", "utc_diff": "+3", "Dls": "+3"},
     {"capital": "Novosibirsk", "utc_diff": "+7", "Dls": "+7"},
     {"capital": "Yekaterinburg", "utc_diff": "+5", "Dls": "+5"},
