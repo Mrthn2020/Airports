@@ -1,0 +1,1868 @@
+[
+ {
+   "capital": "Austin",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Jacksonville",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Fort Worth",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Columbus",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Charlotte",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "San Francisco",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Los Angeles",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Seattle",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Indianapolis",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Denver",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Washington, D.C.",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Boston",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "El Paso",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Detroit",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Nashville",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Portland",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Memphis",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Oklahoma City",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Las Vegas",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Louisville",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Baltimore",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Milwaukee",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Albuquerque",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Tucson",
+   "utc_diff": "-7",
+   "Dls": "-7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Fresno",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Sacramento",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Kansas City",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Atlanta",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Miami",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Oakland",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Minneapolis",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Tulsa",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Wichita",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "New Orleans",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Arlington",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Cleveland",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Bakersfield",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Tampa",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Aurora",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Honolulu",
+   "utc_diff": "-10",
+   "Dls": "-10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "New York City",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Chicago",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Houston",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Philadelphia",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Phoenix",
+   "utc_diff": "-7",
+   "Dls": "-7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "San Antonio",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "San Diego",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Dallas",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "San Jose",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "St. Louis",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Raleigh",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Omaha",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Boise",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Pittsburgh",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Cincinnati",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "London",
+   "utc_diff": "0",
+   "Dls": "1",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Berlin",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Paris",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Madrid",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Rome",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Amsterdam",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Brussels",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Vienna",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Prague",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Warsaw",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Budapest",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Lisbon",
+   "utc_diff": "0",
+   "Dls": "1",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Dublin",
+   "utc_diff": "0",
+   "Dls": "1",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Stockholm",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Copenhagen",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Oslo",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Helsinki",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Athens",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Bucharest",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Sofia",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Istanbul",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Moscow",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kyiv",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Minsk",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Reykjavik",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Zurich",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Geneva",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Luxembourg",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Bratislava",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Ljubljana",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Zagreb",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Belgrade",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Sarajevo",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Podgorica",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Skopje",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Tirana",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Valletta",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Nicosia",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Vilnius",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Riga",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Tallinn",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Tokyo",
+   "utc_diff": "9",
+   "Dls": "9",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Beijing",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Shanghai",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Hong Kong",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Seoul",
+   "utc_diff": "9",
+   "Dls": "9",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Taipei",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Singapore",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bangkok",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Jakarta",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Manila",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kuala Lumpur",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Hanoi",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ho Chi Minh City",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "New Delhi",
+   "utc_diff": "+5:30",
+   "Dls": "+5:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Mumbai",
+   "utc_diff": "+5:30",
+   "Dls": "+5:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bangalore",
+   "utc_diff": "+5:30",
+   "Dls": "+5:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Colombo",
+   "utc_diff": "+5:30",
+   "Dls": "+5:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kathmandu",
+   "utc_diff": "+5:45",
+   "Dls": "+5:45",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Dhaka",
+   "utc_diff": "6",
+   "Dls": "6",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Karachi",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Islamabad",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Dubai",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Abu Dhabi",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Riyadh",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Doha",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tel Aviv",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Jerusalem",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Amman",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Beirut",
+   "utc_diff": "2",
+   "Dls": "3",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Baghdad",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tehran",
+   "utc_diff": "+3:30",
+   "Dls": "+4:30",
+   "Reg": "EU"
+ },
+ {
+   "capital": "Tashkent",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Astana",
+   "utc_diff": "6",
+   "Dls": "6",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bishkek",
+   "utc_diff": "6",
+   "Dls": "6",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ulaanbaatar",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Pyongyang",
+   "utc_diff": "9",
+   "Dls": "9",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Vientiane",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Phnom Penh",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Yangon",
+   "utc_diff": "+6:30",
+   "Dls": "+6:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Macau",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cairo",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lagos",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Johannesburg",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Nairobi",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Addis Ababa",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Casablanca",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Algiers",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tunis",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tripoli",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Khartoum",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Dakar",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Accra",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Abidjan",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bamako",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ouagadougou",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Conakry",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Freetown",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Monrovia",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Banjul",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Nouakchott",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Rabat",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Maputo",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Harare",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lusaka",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Gaborone",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Windhoek",
+   "utc_diff": "1",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kampala",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Dar es Salaam",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Mogadishu",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Djibouti",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Asmara",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Antananarivo",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Port Louis",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Victoria",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Saint-Denis",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Libreville",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Brazzaville",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kinshasa",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Luanda",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Yaoundé",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Douala",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Malabo",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bujumbura",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kigali",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lilongwe",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lomé",
+   "utc_diff": "0",
+   "Dls": "0",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cotonou",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Niamey",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ndjamena",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bangui",
+   "utc_diff": "1",
+   "Dls": "1",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Juba",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Buenos Aires",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "São Paulo",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Rio de Janeiro",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Brasília",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lima",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Bogotá",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Santiago",
+   "utc_diff": "-4",
+   "Dls": "-3",
+   "Reg": "US"
+ },
+ {
+   "capital": "Caracas",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Quito",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "La Paz",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Montevideo",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Medellín",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Guayaquil",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Maracaibo",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Recife",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Salvador",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Fortaleza",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Belém",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Manaus",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Córdoba",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Rosario",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Georgetown",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Paramaribo",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cayenne",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Santa Cruz",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Sucre",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cochabamba",
+   "utc_diff": "-4",
+   "Dls": "-4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Arequipa",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Trujillo",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Barranquilla",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cali",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Curitiba",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Porto Alegre",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Belém",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Goiânia",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Campinas",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Mendoza",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Punta Arenas",
+   "utc_diff": "-3",
+   "Dls": "-3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Saint Petersburg",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Novosibirsk",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Yekaterinburg",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kazan",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Nizhny Novgorod",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Chelyabinsk",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Samara",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Omsk",
+   "utc_diff": "6",
+   "Dls": "6",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Rostov-on-Don",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ufa",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Krasnoyarsk",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Perm",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Voronezh",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Volgograd",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Krasnodar",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Saratov",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tyumen",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tolyatti",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Izhevsk",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Barnaul",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ulyanovsk",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Irkutsk",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Khabarovsk",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Yaroslavl",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Vladivostok",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Makhachkala",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tomsk",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Orenburg",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kemerovo",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Novokuznetsk",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ryazan",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Astrakhan",
+   "utc_diff": "4",
+   "Dls": "4",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Naberezhnye Chelny",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Penza",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Lipetsk",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Kaliningrad",
+   "utc_diff": "2",
+   "Dls": "2",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Tyva",
+   "utc_diff": "7",
+   "Dls": "7",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Chita",
+   "utc_diff": "9",
+   "Dls": "9",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Petropavlovsk-Kamchatsky",
+   "utc_diff": "12",
+   "Dls": "12",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Magadan",
+   "utc_diff": "11",
+   "Dls": "11",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Yakutsk",
+   "utc_diff": "9",
+   "Dls": "9",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Vladikavkaz",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Murmansk",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Sochi",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Grozny",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Vladimir",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cherepovets",
+   "utc_diff": "3",
+   "Dls": "3",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Sterlitamak",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Orsk",
+   "utc_diff": "5",
+   "Dls": "5",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Ottawa",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Toronto",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Montreal",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Vancouver",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Calgary",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Edmonton",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Winnipeg",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Quebec City",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Halifax",
+   "utc_diff": "-4",
+   "Dls": "-3",
+   "Reg": "US"
+ },
+ {
+   "capital": "St. John's",
+   "utc_diff": "-3:30",
+   "Dls": "-2:30",
+   "Reg": "US"
+ },
+ {
+   "capital": "Victoria",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Regina",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Saskatoon",
+   "utc_diff": "-6",
+   "Dls": "-5",
+   "Reg": "US"
+ },
+ {
+   "capital": "Whitehorse",
+   "utc_diff": "-8",
+   "Dls": "-7",
+   "Reg": "US"
+ },
+ {
+   "capital": "Yellowknife",
+   "utc_diff": "-7",
+   "Dls": "-6",
+   "Reg": "US"
+ },
+ {
+   "capital": "Iqaluit",
+   "utc_diff": "-5",
+   "Dls": "-4",
+   "Reg": "US"
+ },
+ {
+   "capital": "Canberra",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Sydney",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Melbourne",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Brisbane",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Perth",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Adelaide",
+   "utc_diff": "+9:30",
+   "Dls": "+10:30",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Gold Coast",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Newcastle",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Wollongong",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Hobart",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Geelong",
+   "utc_diff": "10",
+   "Dls": "11",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Townsville",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Cairns",
+   "utc_diff": "10",
+   "Dls": "10",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Darwin",
+   "utc_diff": "+9:30",
+   "Dls": "+9:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Alice Springs",
+   "utc_diff": "+9:30",
+   "Dls": "+9:30",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Broome",
+   "utc_diff": "8",
+   "Dls": "8",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Wellington",
+   "utc_diff": "12",
+   "Dls": "13",
+   "Reg": "NO"
+ },
+ {
+   "capital": "Auckland",
+   "utc_diff": "12",
+   "Dls": "13",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Christchurch",
+   "utc_diff": "12",
+   "Dls": "13",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Hamilton",
+   "utc_diff": "12",
+   "Dls": "13",
+   "Reg": "AU"
+ },
+ {
+   "capital": "Tauranga",
+   "utc_diff": "12",
+   "Dls": "13",
+   "Reg": "AU"
+ }
+]
