@@ -1158,6 +1158,12 @@
    "Reg": "NO"
  },
  {
+   "capital": "Panama City",
+   "utc_diff": "-5",
+   "Dls": "-5",
+   "Reg": "NO"
+ },
+ {
    "capital": "Santiago",
    "utc_diff": "-4",
    "Dls": "-3",
